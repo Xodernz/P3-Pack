@@ -3,7 +3,9 @@
 ## UI Tweaks
 **1. Compass HUD [1.21.60]** : [Download](https://github.com/Xodernz/P3-Pack/releases/download/all/P3.Compass.HUD.mcpack)
 ##
-**2. Hide Enchantment Text** : [Download](https://github.com/Xodernz/P3-Pack/releases/download/all/Hide.Enchant.mcpack)\
+**2. Hide Enchantment Text** : [Download](https://github.com/Xodernz/P3-Pack/releases/download/all/Hide.Enchant.mcpack)
+>Menyembunyikan label enchantment di GUI
+
 Before :\
 ![](https://github.com/Xodernz/P3-Pack/blob/main/Images/Hide%20Enchant%20Before.png)\
 After :\
@@ -12,6 +14,12 @@ After :\
 >Kamu tetap bisa melihat enchantment di dalam inventory
 ##
 **3. Mini "Stack Counter"** : [Download](https://github.com/Xodernz/P3-Pack/releases/download/all/mini.stack.counter.mcpack)
+>Membuat angka stack item menjadi kecil
+
+Before :\
+![](https://github.com/Xodernz/P3-Pack/blob/main/Images/Stk%20Count%20B.png)\
+After :\
+![](https://github.com/Xodernz/P3-Pack/blob/main/Images/Stk%20Count%20A.png)
 ##
 **4. Brewing Guide** : [Download](https://github.com/Xodernz/P3-Pack/releases/download/all/mini.stack.counter.mcpack)
 ##
