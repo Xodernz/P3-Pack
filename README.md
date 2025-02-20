@@ -16,7 +16,7 @@ Versi PC / Non-Touchscreen :\
 >[!Note]
 >Kedua versi diatas adalah otomatis tergantung kontrol yang kamu pakai!
 ##
-**2. Hide Enchantment Text : [Download](https://github.com/Xodernz/P3-Pack/releases/download/all/Hide.Enchant.mcpack)**
+**2. Hide Enchantment Label : [Download](https://github.com/Xodernz/P3-Pack/releases/download/all/Hide.Enchant.mcpack)**
 >Menyembunyikan label enchantment di layar HUD
 
 Before :\
