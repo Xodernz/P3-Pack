@@ -10,9 +10,9 @@
 >Menampilkan "Compass, Recovery Compass, dan Clock" di HUD
 
 Versi HP / Touchscreen :\
-![](https://github.com/Xodernz/P3-Pack/blob/main/Images/compass%20ts.png)\
+![](/Images/compass%20ts.png)\
 Versi PC / Non-Touchscreen :\
-![](https://github.com/Xodernz/P3-Pack/blob/main/Images/compass%20non%20ts.png)
+![](/Images/compass%20non%20ts.png)
 >[!Note]
 >Kedua versi diatas adalah otomatis tergantung kontrol yang kamu pakai!
 ##
@@ -20,9 +20,9 @@ Versi PC / Non-Touchscreen :\
 >Menyembunyikan label enchantment di layar HUD
 
 Before :\
-![](https://github.com/Xodernz/P3-Pack/blob/main/Images/Hide%20Enchant%20Before.png)\
+![](/Images/Hide%20Enchant%20Before.png)\
 After :\
-![](https://github.com/Xodernz/P3-Pack/blob/main/Images/Hide%20Enchant%20After.png)
+![](/Images/Hide%20Enchant%20After.png)
 >[!Note]
 >Kamu tetap bisa melihat enchantment di dalam inventory
 ##
@@ -30,14 +30,14 @@ After :\
 >Membuat angka stack item menjadi kecil
 
 Before :\
-![](https://github.com/Xodernz/P3-Pack/blob/main/Images/Stk%20Count%20B.png)\
+![](/Images/Stk%20Count%20B.png)\
 After :\
-![](https://github.com/Xodernz/P3-Pack/blob/main/Images/Stk%20Count%20A.png)
+![](/Images/Stk%20Count%20A.png)
 ##
 **4. Brewing Guide : [Download](https://github.com/Xodernz/P3-Pack/releases/download/all/Brewing.Guide.mcpack)**
 >Buat nyontek pas bikin ramuan njir
 
-![](https://github.com/Xodernz/P3-Pack/blob/main/Images/Brew%20Guide.png)
+![](/Images/Brew%20Guide.png)
 ##
 **5. Clear Pumpkin & Spyglass Scope : [Download](https://github.com/Xodernz/P3-Pack/releases/download/all/Clear.Pumpkin.Spyglass.mcpack)**
 >Saat memakai Pumpkin/Labu di kepala jadi bersih (tidak ada efek bayangan hitam / tepian spyglass)
