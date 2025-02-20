@@ -2,8 +2,14 @@
 
 ## UI Tweaks
 **1. Compass HUD [1.21.60]** : [Download](https://github.com/Xodernz/P3-Pack/releases/download/all/P3.Compass.HUD.mcpack)
->Menampilkan Recovery Compass, Compass, dan Clock di HUD
+>Menampilkan "Compass, Recovery Compass, dan Clock" di HUD
 
+Versi HP / Touchscreen :\
+![](https://github.com/Xodernz/P3-Pack/blob/main/Images/compass%20ts.png)\
+Versi PC / Non-Touchscreen :\
+![](https://github.com/Xodernz/P3-Pack/blob/main/Images/compass%20non%20ts.png)
+>[!Note]
+>Kedua versi diatas adalah otomatis tergantung kontrol yang kamu pakai!
 ##
 **2. Hide Enchantment Text** : [Download](https://github.com/Xodernz/P3-Pack/releases/download/all/Hide.Enchant.mcpack)
 >Menyembunyikan label enchantment di layar HUD
