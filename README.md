@@ -5,9 +5,9 @@
 ##
 **2. Hide Enchantment Text** : [Download](https://github.com/Xodernz/P3-Pack/releases/download/all/Hide.Enchant.mcpack)\
 Before :\
-![](https://github.com/Xodernz/P3-Pack/blob/main/Hide%20Enchant%20Before.png)\
+![](https://github.com/Xodernz/P3-Pack/blob/main/Images/Hide%20Enchant%20Before.png)\
 After :\
-![](https://github.com/Xodernz/P3-Pack/blob/main/Hide%20Enchant%20After.png)
+![](https://github.com/Xodernz/P3-Pack/blob/main/Images/Hide%20Enchant%20After.png)
 >Kamu tetap bisa melihat enchantment di dalam inventory
 ##
 **3. Mini "Stack Counter"** : [Download](https://github.com/Xodernz/P3-Pack/releases/download/all/mini.stack.counter.mcpack)
