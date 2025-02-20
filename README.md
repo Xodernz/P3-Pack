@@ -4,3 +4,4 @@
 **2. Hide Enchantment Text** : [Download](https://github.com/Xodernz/Hide-Enchantment-Text/releases/download/1.0.0/Hide.Enchant.mcpack)\
 **3. Mini "Stack Counter"** : [Download](https://github.com/Xodernz/Mini-Stack-Counter/releases/download/1.0/mini.stack.counter.mcpack)\
 **4. Brewing Guide** : [Download](https://github.com/Xodernz/Brewing-Guide/releases/download/1.0/Brewing.Guide.mcpack)\
+**5. Clear Pumpkin & Spyglass Scope** : [Download](https://github.com/Xodernz/Clear-Pumpkin-Spyglass/releases/download/1.0/Clear.Pumpkin.Spyglass.mcpack)
