@@ -8,5 +8,5 @@
 **5. Clear Pumpkin & Spyglass Scope** : [Download](https://github.com/Xodernz/Clear-Pumpkin-Spyglass/releases/download/1.0/Clear.Pumpkin.Spyglass.mcpack)
 
 ## Texture Packs Tweaks
-**1. Original Faithful** : [Link](https://faithfulpack.net/)
+**1. Original Faithful** : [Link](https://faithfulpack.net/)\
 **2. P3 Faithful Tweaks** : | [32x](https://github.com/Xodernz/P3-Faithful-Tweaks/releases/download/1.0/P3.Faithfull.Tweaks.32x.mcpack) | [64x](https://github.com/Xodernz/P3-Faithful-Tweaks/releases/download/1.0/P3.Faithfull.Tweaks.32x.mcpack) |
