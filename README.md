@@ -4,7 +4,7 @@
 **1. Compass HUD [1.21.60]** : [Download](https://github.com/Xodernz/P3-Pack/releases/download/all/P3.Compass.HUD.mcpack)
 ##
 **2. Hide Enchantment Text** : [Download](https://github.com/Xodernz/P3-Pack/releases/download/all/Hide.Enchant.mcpack)
->Menyembunyikan label enchantment di GUI
+>Menyembunyikan label enchantment di layar HUD
 
 Before :\
 ![](https://github.com/Xodernz/P3-Pack/blob/main/Images/Hide%20Enchant%20Before.png)\
