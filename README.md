@@ -23,7 +23,7 @@ Before :\
 After :\
 ![](https://github.com/Xodernz/P3-Pack/blob/main/Images/Stk%20Count%20A.png)
 ##
-**4. Brewing Guide** : [Download](https://github.com/Xodernz/P3-Pack/releases/download/all/mini.stack.counter.mcpack)\
+**4. Brewing Guide** : [Download](https://github.com/Xodernz/P3-Pack/releases/download/all/mini.stack.counter.mcpack)
 >Buat nyontek pas bikin ramuan njir
 
 ![](https://github.com/Xodernz/P3-Pack/blob/main/Images/Brew%20Guide.png)
