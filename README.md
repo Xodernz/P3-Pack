@@ -2,6 +2,8 @@
 
 ## UI Tweaks
 **1. Compass HUD [1.21.60]** : [Download](https://github.com/Xodernz/P3-Pack/releases/download/all/P3.Compass.HUD.mcpack)
+>Menampilkan Recovery Compass, Compass, dan Clock di HUD
+
 ##
 **2. Hide Enchantment Text** : [Download](https://github.com/Xodernz/P3-Pack/releases/download/all/Hide.Enchant.mcpack)
 >Menyembunyikan label enchantment di layar HUD
@@ -21,9 +23,13 @@ Before :\
 After :\
 ![](https://github.com/Xodernz/P3-Pack/blob/main/Images/Stk%20Count%20A.png)
 ##
-**4. Brewing Guide** : [Download](https://github.com/Xodernz/P3-Pack/releases/download/all/mini.stack.counter.mcpack)
+**4. Brewing Guide** : [Download](https://github.com/Xodernz/P3-Pack/releases/download/all/mini.stack.counter.mcpack)\
+>Buat nyontek pas bikin ramuan njir
+
+![](https://github.com/Xodernz/P3-Pack/blob/main/Images/Brew%20Guide.png)
 ##
 **5. Clear Pumpkin & Spyglass Scope** : [Download](https://github.com/Xodernz/P3-Pack/releases/download/all/Clear.Pumpkin.Spyglass.mcpack)
+>Saat memakai Pumpkin/Labu di kepala jadi bersih (tidak ada efek bayangan hitam / tepian spyglass)
 ##
 ## Texture Packs Tweaks
 **1. Original Faithful** : [Link](https://faithfulpack.net/)\
