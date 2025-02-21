@@ -1,4 +1,4 @@
-<p align="center"><img src=/Images/p3icon.png></p>
+<p align="center"><img src=/Images/p3icon.png height=200></p>
 
 # P3 Packs
 **Sebuah Resourcepack Minecraft Bedrock Edition yang dibuat dari hasil gabut admin dan dibagikan ke seluruh anggota P3 dimanapun kalian berada...**
@@ -32,7 +32,7 @@ Versi PC / Non-Touchscreen :\
 ![](/Images/compass%20non%20ts.png)
 >[!Note]
 >Kedua versi diatas adalah otomatis tergantung kontrol yang kamu pakai!
-<p align="center"> <a href=https://github.com/Xodernz/P3-Pack/releases/download/all/P3.Compass.HUD.mcpack><kbd><br>‌ DOWNLOAD ‌<br>‌</kbd></a> </p>
+<p align="center"> <a href=https://github.com/Xodernz/P3-Pack/releases/download/all/P3.Compass.HUD.mcpack><img src=/Images/dlbtn.png width="180"></p>
 <hr>
 
 #### 2. Hide Enchantment Label
@@ -44,7 +44,7 @@ After :\
 ![](/Images/Hide%20Enchant%20After.png)
 >[!Note]
 >Kamu tetap bisa melihat enchantment di dalam inventory
-<p align="center"><a href=https://github.com/Xodernz/P3-Pack/releases/download/all/Hide.Enchant.mcpack><kbd><br>‌ DOWNLOAD ‌<br>‌</kbd></a></p>
+<p align="center"><a href=https://github.com/Xodernz/P3-Pack/releases/download/all/Hide.Enchant.mcpack><img src=/Images/dlbtn.png width="180"></p>
 <hr>
 
 #### 3. Mini "Stack Counter"
@@ -54,14 +54,14 @@ Before :\
 ![](/Images/Stk%20Count%20B.png)\
 After :\
 ![](/Images/Stk%20Count%20A.png)
-<p align="center"><a href=https://github.com/Xodernz/P3-Pack/releases/download/all/mini.stack.counter.mcpack><kbd><br>‌ DOWNLOAD ‌<br>‌</kbd></a></p>
+<p align="center"><a href=https://github.com/Xodernz/P3-Pack/releases/download/all/mini.stack.counter.mcpack><img src=/Images/dlbtn.png width="180"></p>
 <hr>
 
 #### 4. Brewing Guide
 >Buat nyontek pas bikin ramuan njir
 
 ![](/Images/Brew%20Guide.png)
-<p align="center"><a href=https://github.com/Xodernz/P3-Pack/releases/download/all/Brewing.Guide.mcpack><kbd><br>‌ DOWNLOAD ‌<br>‌</kbd></a></p>
+<p align="center"><a href=https://github.com/Xodernz/P3-Pack/releases/download/all/Brewing.Guide.mcpack><img src=/Images/dlbtn.png width="180"></p>
 <hr>
 
 #### 5. Clear Pumpkin & Spyglass Scope
@@ -71,12 +71,12 @@ Pumpkin :\
 ![](/Images/Pumpkin.png)\
 Spyglass :\
 ![](/Images/Spyglass.png)
-<p align="center"><a href=https://github.com/Xodernz/P3-Pack/releases/download/all/Clear.Pumpkin.Spyglass.mcpack><kbd><br>‌ DOWNLOAD ‌<br>‌</kbd></a></p>
+<p align="center"><a href=https://github.com/Xodernz/P3-Pack/releases/download/all/Clear.Pumpkin.Spyglass.mcpack><img src=/Images/dlbtn.png width="180"></p>
 <hr>
 
 #### 6. Tempe Goreng
 >Mengubah Golden Carrot menjadi Tempe Goreng
 
 ![](/Images/Tempegoreng.png)
-<p align="center"><a href=https://github.com/Xodernz/P3-Pack/releases/download/Tempe-Goreng/Tempe.Goreng.mcpack><kbd><br>‍ DOWNLOAD ‍<br>‍</kbd></a></p>
+<p align="center"><a href=https://github.com/Xodernz/P3-Pack/releases/download/Tempe-Goreng/Tempe.Goreng.mcpack><img src=/Images/dlbtn.png width="180"></p>
 <hr>
