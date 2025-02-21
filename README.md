@@ -3,7 +3,7 @@
 
 ## Texture Packs Tweaks
 **1. Original Faithful : [Link](https://faithfulpack.net/)**\
-**2. P3 Faithful Tweaks : [<kbd>Download 32x32</kbd>](https://github.com/Xodernz/P3-Pack/releases/download/all/P3.Faithfull.Tweaks.32x.mcpack) [<kbd>Download 64x64</kbd>](https://github.com/Xodernz/P3-Pack/releases/download/all/P3.Faithfull.Tweaks.64x.mcpack)**
+**2. P3 Faithful Tweaks : [<kbd>x32</kbd>](https://github.com/Xodernz/P3-Pack/releases/download/all/P3.Faithfull.Tweaks.32x.mcpack) [<kbd>x64</kbd>](https://github.com/Xodernz/P3-Pack/releases/download/all/P3.Faithfull.Tweaks.64x.mcpack)**
 ##
 ## UI Tweaks
 **1. Compass HUD [1.21.60]**
