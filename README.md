@@ -64,6 +64,11 @@ After :\
 
 #### 5. Clear Pumpkin & Spyglass Scope
 >Saat memakai Pumpkin/Labu di kepala jadi bersih (tidak ada efek bayangan hitam / tepian spyglass)
+
+Pumpkin :\
+![](/Images/Pumpkin.png)\
+Spyglass :\
+![](/Images/Spyglass.png)
 <p align="center"><a href=https://github.com/Xodernz/P3-Pack/releases/download/all/Clear.Pumpkin.Spyglass.mcpack><kbd><br>‌ DOWNLOAD ‌<br>‌</kbd></a></p>
 <hr>
 
