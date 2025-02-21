@@ -74,5 +74,7 @@ Spyglass :\
 
 #### 6. Tempe Goreng
 >Mengubah Golden Carrot menjadi Tempe Goreng
+
+![](/Images/Tempegoreng.png)
 <p align="center"><a href=https://github.com/Xodernz/P3-Pack/releases/download/Tempe-Goreng/Tempe.Goreng.mcpack><kbd><br>‍ DOWNLOAD ‍<br>‍</kbd></a></p>
 <hr>
