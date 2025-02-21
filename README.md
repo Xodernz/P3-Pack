@@ -1,12 +1,14 @@
 # P3 Packs
 **Sebuah Resourcepack Minecraft Bedrock Edition yang dibuat dari hasil gabut admin dan dibagikan ke seluruh anggota P3 dimanapun kalian berada...**
+<hr>
 
 ## Texture Packs Tweaks
-**1. Original Faithful : [Link](https://faithfulpack.net/)**\
-**2. P3 Faithful Tweaks : [<kbd>x32</kbd>](https://github.com/Xodernz/P3-Pack/releases/download/all/P3.Faithfull.Tweaks.32x.mcpack) [<kbd>x64</kbd>](https://github.com/Xodernz/P3-Pack/releases/download/all/P3.Faithfull.Tweaks.64x.mcpack)**
-##
+#### 1. Original Faithful : [Link](https://faithfulpack.net/)**\
+#### 2. P3 Faithful Tweaks : [<kbd>x32</kbd>](https://github.com/Xodernz/P3-Pack/releases/download/all/P3.Faithfull.Tweaks.32x.mcpack) [<kbd>x64</kbd>](https://github.com/Xodernz/P3-Pack/releases/download/all/P3.Faithfull.Tweaks.64x.mcpack)**
+<hr>
+
 ## UI Tweaks
-**1. Compass HUD [1.21.60]**
+#### 1. Compass HUD [1.21.60]
 >Menampilkan "Compass, Recovery Compass, dan Clock" di HUD
 
 Versi HP / Touchscreen :\
@@ -16,9 +18,9 @@ Versi PC / Non-Touchscreen :\
 >[!Note]
 >Kedua versi diatas adalah otomatis tergantung kontrol yang kamu pakai!
 <p align="center"> <a href=https://github.com/Xodernz/P3-Pack/releases/download/all/P3.Compass.HUD.mcpack><kbd><br>‌ Download ‌<br>‌</kbd></a> </p>
-<hr/>
+<hr>
 
-**2. Hide Enchantment Label**
+#### 2. Hide Enchantment Label
 >Menyembunyikan label enchantment di layar HUD
 
 Before :\
@@ -28,9 +30,9 @@ After :\
 >[!Note]
 >Kamu tetap bisa melihat enchantment di dalam inventory
 <p align="center"><a href=https://github.com/Xodernz/P3-Pack/releases/download/all/Hide.Enchant.mcpack><kbd><br>‌ Download ‌<br>‌</kbd></a></p>
-<hr/>
+<hr>
 
-**3. Mini "Stack Counter"**
+#### 3. Mini "Stack Counter"
 >Membuat angka stack item menjadi kecil
 
 Before :\
@@ -38,16 +40,21 @@ Before :\
 After :\
 ![](/Images/Stk%20Count%20A.png)
 <p align="center"><a href=https://github.com/Xodernz/P3-Pack/releases/download/all/mini.stack.counter.mcpack><kbd><br>‌ Download ‌<br>‌</kbd></a></p>
-<hr/>
+<hr>
 
-**4. Brewing Guide**
+#### 4. Brewing Guide
 >Buat nyontek pas bikin ramuan njir
 
 ![](/Images/Brew%20Guide.png)
 <p align="center"><a href=https://github.com/Xodernz/P3-Pack/releases/download/all/Brewing.Guide.mcpack><kbd><br>‌ Download ‌<br>‌</kbd></a></p>
-<hr/>
+<hr>
 
-**5. Clear Pumpkin & Spyglass Scope**
+#### 5. Clear Pumpkin & Spyglass Scope
 >Saat memakai Pumpkin/Labu di kepala jadi bersih (tidak ada efek bayangan hitam / tepian spyglass)
 <p align="center"><a href=https://github.com/Xodernz/P3-Pack/releases/download/all/Clear.Pumpkin.Spyglass.mcpack><kbd><br>‌ Download ‌<br>‌</kbd></a></p>
-<hr/>
+<hr>
+
+#### 6. Tempe Goreng
+>Mengubah Golden Carrot menjadi Tempe Goreng
+<p align="center"><a href=https://github.com/Xodernz/P3-Pack/releases/download/Tempe-Goreng/Tempe.Goreng.mcpack><kbd><br>‍ Download ‍<br>‍</kbd></a></p>
+<hr>
