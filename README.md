@@ -1,3 +1,7 @@
+***
+<p align="center"><img src=/Images/p3icon.png></p>
+<hr>
+
 # P3 Packs
 **Sebuah Resourcepack Minecraft Bedrock Edition yang dibuat dari hasil gabut admin dan dibagikan ke seluruh anggota P3 dimanapun kalian berada...**
 <hr>
