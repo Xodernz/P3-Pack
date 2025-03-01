@@ -1,4 +1,4 @@
-<p align="center"><img src=/Images/p3icon.png height="100"></p>
+<p align="center"><a href=https://github.com/Xodernz/P3-Pack><img src=/Images/p3icon.png alt="P3 Packs" height="100"></a></p>
 
 # P3 Packs
 **Sebuah Resourcepack Minecraft Bedrock Edition yang dibuat dari hasil gabut admin dan dibagikan ke seluruh anggota P3 dimanapun kalian berada...**
