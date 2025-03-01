@@ -80,3 +80,10 @@ Spyglass :\
 ![](/Images/Tempegoreng.png)
 <p align="center"><a href=https://github.com/Xodernz/P3-Pack/releases/download/Tempe-Goreng/Tempe.Goreng.mcpack><img src=/Images/dlbtn.png alt="Download Tempe Goreng" width="150"></p>
 <hr>
+
+#### 7. Visible Seed Accessibility
+>Dapat melihat seed dunia dibagian "Settings > Accessibility"
+
+![](/Images/seedvis.png)
+<p align="center"><a href=https://github.com/Xodernz/P3-Pack/releases/download/visible-seed/Visual.Seed.Accessibility.mcpack><img src=/Images/dlbtn.png alt="Download Vissible Seed Accessibility" width="150"></p>
+<hr>
