@@ -95,4 +95,4 @@ Spyglass :\
 - By MP3DRINK / Xodernz / Oden
 - Gamertag Xbox / Minecraft Bedrock : [x MP3DRINK x](https://www.xbox.com/id-ID/play/user/x%20MP3DRINK%20x)
 - Youtube : [MP3DRINK](https://youtube.com/@mp3drink?si=6Ti0AEUtgduGYtDA) | [MendinK](https://youtube.com/@mendink?si=tUJw6PHADkaFqCWe)
-- Donate : [Sociabuzz](https://sociabuzz.com/mp3drink/tribe) (All Payment)
+- Donate : [Sociabuzz](https://sociabuzz.com/mp3drink/tribe) (Semua Metode Pembayaran)
