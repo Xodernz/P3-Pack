@@ -15,6 +15,7 @@
 4. [Brewing Guide](#4-brewing-guide)
 5. [Clear Pumpkin & Spyglass](#5-clear-pumpkin--spyglass-scope)
 6. [Tempe Goreng](#6-tempe-goreng)
+7. [Visible Seed Accessibility](#7-visible-seed-accessibility)
 <hr>
 
 ## Texture Packs Tweaks
@@ -87,3 +88,11 @@ Spyglass :\
 ![](/Images/seedvis.png)
 <p align="center"><a href=https://github.com/Xodernz/P3-Pack/releases/download/visible-seed/Visual.Seed.Accessibility.mcpack><img src=/Images/dlbtn.png alt="Download Vissible Seed Accessibility" width="150"></p>
 <hr>
+
+##
+  
+### Creator
+- By MP3DRINK / Xodernz / Oden
+- Gamertag Xbox / Minecraft Bedrock : [x MP3DRINK x](https://www.xbox.com/id-ID/play/user/x%20MP3DRINK%20x)
+- Youtube : [MP3DRINK](https://youtube.com/@mp3drink?si=6Ti0AEUtgduGYtDA) | [MendinK](https://youtube.com/@mendink?si=tUJw6PHADkaFqCWe)
+- Donate : [Sociabuzz](https://sociabuzz.com/mp3drink/tribe) (All Payment)
