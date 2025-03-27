@@ -9,7 +9,7 @@
 1. [Original Faithful](#1-original-faithful--link)
 2. [P3 Faithful Tweaks](#2-p3-faithful-tweaks--x32-x64)
 #### UI Tweaks
-1. [Compass HUD](#1-compass-hud-12160) [1.21.60 - 1.21.70]
+1. [Compass HUD](#1-compass-hud-12160---12170) [1.21.60 - 1.21.70]
 2. [Hide Enchantment Label](#2-hide-enchantment-label)
 3. [Mini "Stack Counter"](#3-mini-stack-counter)
 4. [Brewing Guide](#4-brewing-guide)
