@@ -4,7 +4,7 @@
 **Sebuah Resourcepack Minecraft Bedrock Edition yang dibuat dari hasil gabut admin dan dibagikan ke seluruh anggota P3 dimanapun kalian berada...**
 <hr>
 
-## Daftar Isi
+## --- [ Daftar Isi ] ---
 #### Texture Packs Tweaks
 1. [Original Faithful](#1-original-faithful--link)
 2. [P3 Faithful Tweaks](#2-p3-faithful-tweaks--x32-x64)
@@ -18,12 +18,12 @@
 7. [Visible Seed Accessibility](#7-visible-seed-accessibility)
 <hr>
 
-## Texture Packs Tweaks
+## --- [ Texture Packs Tweaks ] ---
 #### 1. Original Faithful : [Link](https://faithfulpack.net/)
 #### 2. P3 Faithful Tweaks : [<kbd>x32</kbd>](https://github.com/Xodernz/P3-Pack/releases/download/all/P3.Faithfull.Tweaks.32x.mcpack) [<kbd>x64</kbd>](https://github.com/Xodernz/P3-Pack/releases/download/all/P3.Faithfull.Tweaks.64x.mcpack)
 <hr>
 
-## UI Tweaks
+## --- [ UI Tweaks ] ---
 #### 1. Compass HUD [1.21.60 - 1.21.72]
 >Menampilkan "Compass, Recovery Compass, dan Clock" di HUD
 
