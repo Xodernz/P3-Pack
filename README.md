@@ -16,6 +16,8 @@
 5. [Clear Pumpkin & Spyglass](#5-clear-pumpkin--spyglass-scope)
 6. [Tempe Goreng](#6-tempe-goreng)
 7. [Visible Seed Accessibility](#7-visible-seed-accessibility)
+#### Add-Ons
+1. [Automatic Server Setup](#1-automatic-server-setup)
 <hr>
 
 ## --- [ Texture Packs Tweaks ] ---
@@ -89,8 +91,29 @@ Spyglass :\
 <p align="center"><a href=https://github.com/Xodernz/P3-Pack/releases/download/visible-seed/Visual.Seed.Accessibility.mcpack><img src=/Images/dlbtn.png alt="Download Vissible Seed Accessibility" width="150"></p>
 <hr>
 
+## --- [Add-ons] ---
+#### 1. Automatic Server Setup
+>Mw pake fitur yang biasanya kupakai di realm? TRY THIS!\
+>Plug n Play...! tinggal pasang di world kalian dan langsung main
+
+![](/Images/plersetup.png)
+#### Fitur:
+1. Player online list in sidebar with online timer
+2. One player sleep with notification who's sleeping
+3. AFK Detector (not moving in 90 seconds)
+4. Poin Kontribusi (1 minute = 1 point, but only displays scores in multiples of 10)
+5. Day / Night Alarm
+>[!TIP]
+>You can remove this pack from your world after installation
+
+>[!WARNING]
+>Saat ini masih support up to 10 Players
+
+<p align="center"><a href=https://github.com/Xodernz/P3-Pack/releases/download/server-setup/Server.Setup.mcpack><img src=/Images/dlbtn.png alt="Download Server Setup" width="150"></p>
+<hr>
+
 ##
-  
+
 ### Creator
 - By MP3DRINK / Xodernz / Oden
 - Gamertag Xbox / Minecraft Bedrock : [x MP3DRINK x](https://www.xbox.com/id-ID/play/user/x%20MP3DRINK%20x)
