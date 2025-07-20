@@ -9,13 +9,14 @@
 1. [Original Faithful](#1-original-faithful--link)
 2. [P3 Faithful Tweaks](#2-p3-faithful-tweaks--x32-x64)
 #### UI Tweaks
-1. [Compass HUD](#1-compass-hud-12160---12172) [1.21.60 - 1.21.72]
+1. [Compass HUD](#1-compass-hud-12160---12194) [1.21.60 - 1.21.94]
 2. [Hide Enchantment Label](#2-hide-enchantment-label)
 3. [Mini "Stack Counter"](#3-mini-stack-counter)
 4. [Brewing Guide](#4-brewing-guide)
 5. [Clear Pumpkin & Spyglass](#5-clear-pumpkin--spyglass-scope)
 6. [Tempe Goreng](#6-tempe-goreng)
 7. [Visible Seed Accessibility](#7-visible-seed-accessibility)
+8. [Better Chat Screen](#8-better-chat-screen)
 #### Add-Ons
 1. [Automatic Server Setup](#1-automatic-server-setup)
 <hr>
@@ -26,7 +27,7 @@
 <hr>
 
 ## --- [ UI Tweaks ] ---
-#### 1. Compass HUD [1.21.60 - 1.21.72]
+#### 1. Compass HUD [1.21.60 - 1.21.94]
 >Menampilkan "Compass, Recovery Compass, dan Clock" di HUD
 
 Versi HP / Touchscreen :\
@@ -89,6 +90,17 @@ Spyglass :\
 
 ![](/Images/seedvis.png)
 <p align="center"><a href=https://github.com/Xodernz/P3-Pack/releases/download/visible-seed/Visual.Seed.Accessibility.mcpack><img src=/Images/dlbtn.png alt="Download Vissible Seed Accessibility" width="150"></p>
+<hr>
+
+#### 8. Better Chat Screen
+>Mengubah UI chat screen menjadi seperti...
+
+Chat Screen :
+![](/Images/chtscr.png)
+
+Scrollabe Command Layout (otomatis muncul ketika mengetik command) :
+![](/Images/cmdscr.png)
+<p align="center"><a href=https://github.com/Xodernz/P3-Pack/releases/download/cht_scr/P3.Better.Chat.Screen.mcpack><img src=/Images/dlbtn.png alt="Download Vissible Seed Accessibility" width="150"></p>
 <hr>
 
 ## --- [Add-ons] ---
