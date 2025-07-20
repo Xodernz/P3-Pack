@@ -93,7 +93,7 @@ Spyglass :\
 <hr>
 
 #### 8. Better Chat Screen
->Mengubah UI chat screen menjadi seperti...
+>Mengubah UI chat screen menjadi seperti....
 
 Chat Screen :
 ![](/Images/chtscr.png)
