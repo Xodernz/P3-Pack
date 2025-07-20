@@ -98,7 +98,7 @@ Spyglass :\
 Chat Screen :
 ![](/Images/chtscr.png)
 
-Scrollabe Command Layout (otomatis muncul ketika mengetik command) :
+Scrollable Command Layout (otomatis muncul ketika mengetik command) :
 ![](/Images/cmdscr.png)
 <p align="center"><a href=https://github.com/Xodernz/P3-Pack/releases/download/cht_scr/P3.Better.Chat.Screen.mcpack><img src=/Images/dlbtn.png alt="Download Vissible Seed Accessibility" width="150"></p>
 <hr>
